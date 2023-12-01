@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/common": "^15.2.10",
+    "@angular/forms": "^15.2.10",
+    "@ngrx/data": "^12.1.0"
+  }
+}
